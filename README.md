@@ -32,4 +32,4 @@
     [mit](https://choosealicense.com/licenses/mit)
   
   ## Credits
-  * This project was created by: Jake Keebler (github: jakekeebler | email: jakekeebler@gmail.com)
+  * This project was created by: Jared Keebler (github: jakekeebler | email: jakekeebler@gmail.com)
